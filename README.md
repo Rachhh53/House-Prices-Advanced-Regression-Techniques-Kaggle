@@ -1,7 +1,7 @@
 # House-Prices-Advanced-Regression-Techniques-Kaggle
 ## MSDS 422 Module 1 Assignment 1: House Prices: Advanced Regression Techniques EDA (Kaggle) 
 ### Management/Research Question:
-**In layman’s terms, what is the management/research question of interest, and why would anyone care?**
+**In layman’s terms, what is the management/research question of interest, and why would anyone care?**<br>
 <span style="color:blue">This will be my answer to the question in blue</span>
 ### Requirements:
 You are to conduct EDA on the dataset as follows. <br>
