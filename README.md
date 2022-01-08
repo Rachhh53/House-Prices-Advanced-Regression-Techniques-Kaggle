@@ -3,7 +3,6 @@
 #### Management/Research Question:
 **In layman’s terms, what is the management/research question of interest, and why would anyone care?**
 #### Requirements:
-<br>
 You are to conduct EDA on the dataset as follows. <br>
 **1. Provide appropriate descriptive statistics and visualizations to help understand the marginal distribution of the dependent variable.**<br>
 **2. Investigate missing data and outliers.**<br>
