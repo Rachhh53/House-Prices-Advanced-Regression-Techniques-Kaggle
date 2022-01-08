@@ -3,7 +3,7 @@
 ### Management/Research Question:
 **In layman’s terms, what is the management/research question of interest, and why would anyone care?**<br>
 ```diff
-! text in blue?
++ text in green?
 ```
 ### Requirements:
 You are to conduct EDA on the dataset as follows. <br>
