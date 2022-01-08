@@ -2,6 +2,7 @@
 ## MSDS 422 Module 1 Assignment 1: House Prices: Advanced Regression Techniques EDA (Kaggle) 
 ### Management/Research Question:
 **In layman’s terms, what is the management/research question of interest, and why would anyone care?**
+<span style="color:blue">This will be my answer to the question in blue</span>
 ### Requirements:
 You are to conduct EDA on the dataset as follows. <br>
 **1. Provide appropriate descriptive statistics and visualizations to help understand the marginal distribution of the dependent variable.**<br>
