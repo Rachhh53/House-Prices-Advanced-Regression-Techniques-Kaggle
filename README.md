@@ -3,7 +3,7 @@
 ### Management/Research Question:
 **In layman’s terms, what is the management/research question of interest, and why would anyone care?**<br>
 ```diff
-+ text in green?
++ The research question of interest is: What features impact sales price? Someone might care about this in order to set the price of a house on the market based on these features knowing that, for example, a fire place making a house more valuable to buyers. Another reason someone might care is if a certain feature has a negative correlation with house price - they might want to change or spin that feature for the sale.
 ```
 ### Requirements:
 You are to conduct EDA on the dataset as follows. <br>
