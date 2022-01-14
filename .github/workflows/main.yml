@@ -33,9 +33,6 @@ jobs:
     - name: Format code
       run: |
         make format
-   
-    - name: Build
-      run: make build
       
     #- name: Run distcheck
     #  run: make distcheck
