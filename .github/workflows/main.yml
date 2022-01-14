@@ -33,7 +33,3 @@ jobs:
     - name: Format code
       run: |
         make format
-      
-    - name: Build the notebook
-      run: |
-        jupyter-book build .
