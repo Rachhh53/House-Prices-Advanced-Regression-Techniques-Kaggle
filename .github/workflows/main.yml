@@ -34,5 +34,5 @@ jobs:
       run: |
         make format
       
-    #- name: Run distcheck
-    #  run: make distcheck
+    - name: Build the notebook
+        jupyter-book build .
