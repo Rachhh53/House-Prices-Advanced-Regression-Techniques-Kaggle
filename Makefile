@@ -13,6 +13,6 @@ format:
 	black *.py
 
 lint:
-	pylint --disable=R,C House-Prices-Advanced-Regression-Techniques-Kagglelib cli web
+	pylint --disable=R,C house_prices_kaggle.ipynb
 
 all: install lint test
