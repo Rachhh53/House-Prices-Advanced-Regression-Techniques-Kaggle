@@ -1,4 +1,5 @@
 pylint
+black
 pytest
 pandas
 numpy
