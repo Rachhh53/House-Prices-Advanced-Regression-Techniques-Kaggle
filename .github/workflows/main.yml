@@ -1,0 +1,37 @@
+name: Colab HPART CI
+
+on:
+  push:
+    branches: [ main ]
+    
+    # Allows you to run this workflow manually from the Actions tab
+    # workflow_dispatch:
+
+jobs:
+  # name the job
+  build:
+
+    runs-on: ubuntu-latest
+    # sequence of tasks that will be executed as part of the job
+    steps:
+    - name: checkout repo
+      uses: actions/checkout@v2
+      
+    - name: Set up Python 3.6
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.6
+      
+    - name: Install dependencies
+      run: |
+        make install
+   
+    - name: Lint with pylint
+      run: |
+        make lint
+   
+    - name: Build
+      run: make build
+      
+    #- name: Run distcheck
+    #  run: make distcheck
