@@ -35,4 +35,5 @@ jobs:
         make format
       
     - name: Build the notebook
+      run: |
         jupyter-book build .
