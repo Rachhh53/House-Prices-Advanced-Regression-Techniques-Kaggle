@@ -17,6 +17,7 @@ You are to conduct EDA on the dataset as follows. <br>
 **5. Using the dependent variable, perform both min-max and standard scaling in Python.**<br>
 
 ## MSDS 422 Module 2 Assignment 1: House Prices (Kaggle)
+### Requirements:
 **1. Conduct your analysis using a cross-validation design.**<br>
 **2. Conduct EDA and provide appropriate visualizations in the process.**<br>
 **3. Build a minimum of two separate regression models using the training set.**<br>
