@@ -16,4 +16,15 @@ You are to conduct EDA on the dataset as follows. <br>
 **4. Engage in feature creation by splitting, merging, or otherwise generating a new predictor.**<br>
 **5. Using the dependent variable, perform both min-max and standard scaling in Python.**<br>
 
+## MSDS 422 Module 2 Assignment 1: House Prices (Kaggle)
+**1. Conduct your analysis using a cross-validation design.
+**2. Conduct EDA and provide appropriate visualizations in the process.
+**3. Build a minimum of two separate regression models using the training set.
+**4. Evaluate polynomial, indicator, dichotomous, & piecewise model components.
+**5. Create at least one feature from the data set.
+**6. Evaluate the models’ assumptions.
+**7. Evaluate goodness of fit metrics on the training and validation sets.
+**8. Submit predictions for the unseen test set available on Kaggle.com.
+**9. Provide your Kaggle user name and a screen snapshot of your Kaggle scores.
+**10. Discuss what your models tell you in layman’s terms
 
