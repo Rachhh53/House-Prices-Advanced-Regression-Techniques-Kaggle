@@ -8,7 +8,7 @@ numpy
 matplotlib
 seaborn
 sklearn
-dython
 google
-pwlf
+google-colab
 scipy
+statsmodels
