@@ -6,3 +6,7 @@ numpy
 matplotlib
 seaborn
 sklearn
+dython
+google
+pwlf
+scipy
