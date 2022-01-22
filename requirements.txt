@@ -1,3 +1,4 @@
+nbval
 pylint
 black
 pytest
