@@ -9,7 +9,7 @@ test:
 	python -m pytest --nbval house_prices_kaggle.ipynb
 	
 format:
-	black *.ipynb
+	jblack *.ipynb
 
 lint:
 	pylint --disable=R,C house_prices_kaggle.ipynb
