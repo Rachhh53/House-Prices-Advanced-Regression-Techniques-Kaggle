@@ -30,6 +30,6 @@ jobs:
       run: |
         make format
         
-    - name: Run notebook
-      run: |
-        make test
+    #- name: Run notebook
+     # run: |
+      #  make test
