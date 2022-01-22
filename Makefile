@@ -6,7 +6,6 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv --cov=House-Prices-Advanced-Regression-Techniques-Kagglelib tests/*.py
 	python -m pytest --nbval house_prices_kaggle.ipynb
 	
 format:
