@@ -1,6 +1,6 @@
 nbval
 pylint
-black
+jupyter-black
 pytest
 pandas
 numpy
