@@ -1,7 +1,7 @@
 nbval
 pylint
 black
-jupyter-black
+jupyterblack
 pytest
 pandas
 numpy
